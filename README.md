@@ -75,7 +75,7 @@ Run the Notebook: Open the Jupyter Notebook file and execute the cells:
 
 Clone the Repository:
     ```bash
-        git clone https://github.com/Sahilsingh75/music_genre_classification_with_gui.git
+        git clone https://github.com/Sahilsingh75/Credit-Card-Fraud-Detection-A-Comparative-Analysis-of-ML-Models.git
         cd music_genre_classification_with_gui
 
 Dependencies
