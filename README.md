@@ -63,11 +63,6 @@ The dataset's class imbalance posed a challenge, highlighting the importance of 
 
 ## How to Run the Project
 
-Clone the Repository:
-    ```bash
-      git clone https://github.com/yourusername/Credit_Card_Fraud_Detection.git
-      cd Credit_Card_Fraud_Detection
-
 Install Dependencies: Ensure you have Python 3.8+ installed.
 Then run:
 
@@ -77,6 +72,11 @@ Run the Notebook: Open the Jupyter Notebook file and execute the cells:
 
     ```bash
     jupyter notebook creditcardfraud_LR_RF_XGB.ipynb
+
+Clone the Repository:
+    ```bash
+        git clone https://github.com/Sahilsingh75/music_genre_classification_with_gui.git
+        cd music_genre_classification_with_gui
 
 Dependencies
 The project uses the following Python libraries:
