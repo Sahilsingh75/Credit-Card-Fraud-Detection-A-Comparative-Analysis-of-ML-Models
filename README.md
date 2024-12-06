@@ -66,18 +66,19 @@ The dataset's class imbalance posed a challenge, highlighting the importance of 
 Install Dependencies: Ensure you have Python 3.8+ installed.
 Then run:
 
-    ```bash
-      pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 Run the Notebook: Open the Jupyter Notebook file and execute the cells:
 
-    ```bash
-    jupyter notebook creditcardfraud_LR_RF_XGB.ipynb
-
+```bash
+jupyter notebook creditcardfraud_LR_RF_XGB.ipynb
+```
 Clone the Repository:
-    ```bash
-        git clone https://github.com/Sahilsingh75/Credit-Card-Fraud-Detection-A-Comparative-Analysis-of-ML-Models.git
-        cd music_genre_classification_with_gui
-
+```bash
+git clone https://github.com/Sahilsingh75/Credit-Card-Fraud-Detection-A-Comparative-Analysis-of-ML-Models.git
+cd music_genre_classification_with_gui
+```
 Dependencies
 The project uses the following Python libraries:
 
